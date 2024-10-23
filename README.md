@@ -1,5 +1,5 @@
 ## Bonjour! je m'appelle Leila,👋
-## je suis étudiante en troisième année en Ingénierie des systèmes d'informations et je suis passionnée par tout ce qui concerne la sécurité.
+## je suis étudiante en troisième année en Ingénierie des systèmes d'informations et je suis passionnée par tout ce qui concerne la sécurité et le réseau informatique.
 
 <!--
 **Leila220/Leila220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
